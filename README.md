@@ -1,8 +1,8 @@
 # The Coffee Club plugin for Franz
 
-> [Franz](http://meetfranz.com/) - a free messaging app for Slack, Facebook Messenger, Whatsapp, Telegram and more.
-
 ![demo](./demo.png)
+
+> [Franz](http://meetfranz.com/) - a free messaging app for Slack, Facebook Messenger, Whatsapp, Telegram and more.
 
 ## Installation
 
